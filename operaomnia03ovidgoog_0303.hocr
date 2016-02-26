@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomnia03ovidgoog/operaomnia03ovidgoog_0303.png"; bbox 0 0 2350 3834; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 120 32 2234 3796">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 120 32 2234 3796">
+     <span class='ocr_line' id='line_1_1' title="bbox 120 32 636 280; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 120 32 552 280; x_wconf 95' lang='lat' dir='ltr'><strong>    </strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 628 232 636 280; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 120 348 2234 3796; baseline 0 -980"><span class='ocrx_word' id='word_1_3' title='bbox 120 348 2234 3796; x_wconf 95' lang='lat' dir='ltr'><strong>    </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 444 36 2227 292">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 444 36 2227 322">
+     <span class='ocr_line' id='line_1_3' title="bbox 1048 36 2085 88; baseline -0.021 -5"><span class='ocrx_word' id='word_1_4' title='bbox 1048 36 1317 88; x_wconf 53' lang='grc' dir='ltr'><strong>ΙΤΙὶἹΗ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1345 36 1377 76; x_wconf 75' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_6' title='bbox 1413 36 1589 76; x_wconf 54' lang='lat' dir='ltr'><strong>dm</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1905 36 2085 72; x_wconf 57' lang='lat' dir='ltr'>ruffin,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 444 36 2085 244; baseline -0.007 -72"><span class='ocrx_word' id='word_1_8' title='bbox 444 108 780 172; x_wconf 65' lang='lat' dir='ltr'><strong>Ovidiua</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 840 36 1080 244; x_wconf 44' lang='lat' dir='ltr'><strong>1135ss</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1144 104 1481 168; x_wconf 68' lang='lat' dir='ltr'><strong>Publiufl</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1895 105 1896 108; x_wconf 75' lang='grc'>’</span> <span class='ocrx_word' id='word_1_12' title='bbox 1945 100 2085 164; x_wconf 70' lang='lat'><strong>324</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 552 200 2227 292; baseline -0.001 -3"><span class='ocrx_word' id='word_1_13' title='bbox 552 200 2227 292; x_wconf 43' lang='grc' dir='ltr'>ηψπ-Ε</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 508 2720 2129 2784">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 508 2720 2129 2784">
+     <span class='ocr_line' id='line_1_6' title="bbox 508 2720 2129 2784; baseline -0.004 -2"><span class='ocrx_word' id='word_1_14' title='bbox 508 2728 664 2784; x_wconf 86' lang='grc' dir='ltr'><strong>ΤΗΕ</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 696 2724 1144 2780; x_wconf 73' lang='grc' dir='ltr'><strong>ΠΝΝΕΗΕΙΤΥ</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1185 2724 1281 2778; x_wconf 74' lang='lat' dir='ltr'><strong>oF</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1313 2724 1533 2780; x_wconf 72' lang='lat' dir='ltr'><strong>cfflF</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1537 2722 1773 2776; x_wconf 58' lang='lat' dir='ltr'>[113th</span> <span class='ocrx_word' id='word_1_19' title='bbox 1802 2720 2129 2780; x_wconf 63' lang='lat' dir='ltr'><strong>unffi?</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
